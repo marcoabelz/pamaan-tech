@@ -1,0 +1,239 @@
+body {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Segoe UI';
+    overflow-x: hidden;
+}
+
+.hero-bg {
+    /* background-image: url('/assets/images/image-2.jpg'); */
+    /* background-image: url('/assets/images/hero-bg.jpeg'); */
+    background-color: grey;
+    background-size: cover;
+    height: 500px;
+    width: 100%; 
+}
+
+.navbar-brand {
+    margin-left: 95px;
+    margin-right: 64px;
+    font-size: 25px;
+}
+
+.nav-link {
+    margin-left: 48px;
+    font-size: 18px;
+}
+
+.btn-login-home {
+    margin-right: 110px;
+    width: 140px;
+    text-align: center;
+    background-color: #EB5757;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+
+.navbar {
+    background-color:#1C3961;
+    opacity: 90%;
+}
+
+/*CSS For Tempplate Pages */
+.layer-navbar {
+    background-color: grey;
+    width: 100%;
+    height: 56px;
+}
+/* --------------------- */
+
+.color-navbar {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    /* background-color: white; */
+    background-image: url('../icons/icon-toggler.png');
+}
+
+.icon-navbar {
+    background-color: #EB5757;
+    width: 37px;
+    height: 32px;
+}
+
+.hero {
+    margin-left: 396px;
+}
+
+.motto {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-family: 'Montserrat Extra-bold 800';
+}   
+
+.description-motto {
+    color: white;
+    font-size: 18px;
+    margin-top: 7px;
+    margin-bottom: 26px;
+}
+
+.our-service {
+    padding: 5px 20px 5px 18px;
+    background-color: #EB5757;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+/* .our-service:hover {
+    text-decoration: none;
+    color: yellow;
+} */
+
+.contact-us {
+    color: black;
+    margin-right: 23px;
+}
+
+.content {
+    margin-top: 139px;
+    margin-bottom: 60px;
+    /* margin: 138px 195px 60px 245px; */
+}
+
+.explain {
+    text-align: justify;
+}
+
+.layout-footer {
+    bottom: 0px;
+    margin-top: 50px;
+}
+
+.footer {
+    padding-top: 50px;
+    background-color: #333333;
+    height: 155px;
+}
+
+/* .icons {
+    margin-right: 31px;   
+} */
+
+.list-icons {
+    display: inline;
+}
+
+.social-media {
+    width: 25px;
+    height: 25px;
+}
+
+.copyright {
+    color: #B5B5B5;;
+    font-size: 14px;
+}
+
+.list-menu-footer {
+    text-align: right;
+    padding-top: 25px;
+
+}
+
+.menu-footer {
+    text-decoration: none;
+    color: #B5B5B5;
+}
+
+
+
+.breadcrumb {
+    background-color: white;
+}
+
+.login-form {
+    /* position: relative;
+    margin: 121px auto 112px auto; */
+    margin-top: 30px;
+    width: 370px;
+}
+
+.input-field-login {
+    width: 100%;
+    margin-bottom: 25px;
+    height: 55px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.5);
+}
+
+.forgot-password {
+    margin-top: 9px;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.btn-login {
+    margin-top: 107px;
+    width: 140px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #EB5757;
+    color: white;
+    font-size: 16px;
+    border: none;
+}
+.btn-send-it {
+    background-color: #01354B;
+    margin-top: 25px;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    float: right;
+}
+
+.forgot-password-form {
+    position: relative;
+    margin: 30px auto 112px auto;
+    width: 370px;
+}
+
+.verification-form {
+    margin: 30px auto 112px auto;
+    width: 370px;
+}
+
+
+.verification-field {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.verification-input {
+    border-radius: 10px;
+    width: 54px;
+    height: 54px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn-cart {
+    float: right;
+    width: 140px;
+    text-align: center;
+    background-color: #EB5757;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
